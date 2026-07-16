@@ -34,3 +34,11 @@ let myobhj = {
 const myfunction = function(){
     console.log("Hwllo World");
 }
+
+
+
+
+
+let myFacebook = "Fayshal"
+
+ 
