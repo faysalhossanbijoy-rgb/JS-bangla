@@ -24,4 +24,10 @@ let str2 = " this is me and dream"
 
 
 let str3 = str1 + str2
-console.log(str3);
+//console.log(str3);
+//console.log(true)
+
+let gameCounter = 100
+++gameCounter;
+console.log(gameCounter)
+
